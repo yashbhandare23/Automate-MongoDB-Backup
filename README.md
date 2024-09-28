@@ -3,7 +3,9 @@
 Amazon S3 is an object storage service that offers industry-leading scalability, data availability, security, and performance.
 Store and protect any amount of data for a range of use cases, such as data lakes, websites, cloud-native applications, backups, archive, machine learning, and analytics.
 
-![image](https://github.com/user-attachments/assets/990b8e22-2789-4b86-a4fe-9001e460d30e)
+
+![image](https://github.com/user-attachments/assets/04626779-f164-4577-80b0-c82abed89d03)
+
 
 Requirements:-AWS Account,MongoDB. AWS Services:-EC2,S3,IAM(Role).
 
