@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/81d75c8f-040d-4740-8154-372de36848cb)# Automate-MongoDB-Backup
+# Automate-MongoDB-Backup
+
 Amazon S3 is an object storage service that offers industry-leading scalability, data availability, security, and performance.
 Store and protect any amount of data for a range of use cases, such as data lakes, websites, cloud-native applications, backups, archive, machine learning, and analytics.
 
